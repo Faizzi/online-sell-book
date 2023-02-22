@@ -1,0 +1,10 @@
+#booksContainer{
+    min-height: 100vh;
+    padding: 2rem;
+}
+.cardsBox{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 1rem;
+    margin-top: 2rem;
+}
